@@ -31,4 +31,8 @@
 - Further exception handling
 - Stripe checkout to make it easier (also support for credit cards)
 
+Check [tobedone.txt](tobedone.txt)
+
 and much more...
+
+- by Janosch Hübner
