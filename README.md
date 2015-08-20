@@ -35,4 +35,12 @@ Check [tobedone.txt](tobedone.txt)
 
 and much more...
 
+## Images: ##
+
+![main_view](images/main_view.png)
+![main_view2](images/main_view2.png)
+![register](images/register.png)
+![edit_product](images/edit_product.png)
+![board_logs](images/board_logs.png)
+
 - by Janosch Hübner
