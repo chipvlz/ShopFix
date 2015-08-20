@@ -1,0 +1,15 @@
+.navbar {
+	border-radius: 0px!important;
+}
+
+textarea[resize=none] {
+    resize: none;
+}
+
+a[corners=flat] {
+    border-radius: 0px!important;
+}
+
+a {
+	cursor: pointer!important;
+}

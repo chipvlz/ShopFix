@@ -1,0 +1,18 @@
+//install.php
+if (!extension_loaded('mcrypt')) {
+if (!extension_loaded('curl')) {
+if (!extension_loaded(‘gd’)) { //php gd
+
+possible other features: (not for first version)
+
+-delete images and product files when deleting product
+http://startbootstrap.com/template-overviews/sb-admin-2/
+- BTC Address QR Code
+-too small payments ->adjust payment
+-edit images of products
+-ticket support system
+-sales statistics
+-product kategorien
+-soldOut bug in cart
+-credit system
+-validate email format regex

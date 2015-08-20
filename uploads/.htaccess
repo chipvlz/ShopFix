@@ -1,0 +1,7 @@
+order deny,allow
+deny from all
+allow from 127.0.0.1
+ErrorDocument 403 https://google.com 
+RemoveHandler .php .phtml .php3
+RemoveType .php .phtml .php3
+php_flag engine off
